@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend developer who is conversant with Python and Django Rest Framework, APIs.<br>I have basic knowledge on the frontend which includes HTML, and CSS.<br>I have carried out projects with python, HTML and CSS to create a Static client-based website.<br>I'm currently learning cybersecurity, basic of Javascript and how it can be applied on Node.JS<br>I have strong mathematical background, analytical, creative and good communication skills
+I'm a backend developer with hands-on experience in Python, Django REST Framework, Laravel, and JavaScript. I’ve built and integrated APIs, developed static and dynamic web applications, and enjoy working on scalable backend systems.
 
 
 ## 🌐 Socials:
